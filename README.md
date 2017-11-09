@@ -35,3 +35,12 @@ $ npm run build
 Note: If you dont have permisson running npm commands use sudo user
 
 ``````````````````````````
+
+Main code in : 
+```
+https://github.com/jpaulebenz/reactjs-video-thumb-generator/blob/master/src/App.js
+
+Compressing base64 data uri images: 
+```
+https://stackoverflow.com/questions/22329481/compressing-base64-data-uri-images
+https://stackoverflow.com/questions/23969957/how-to-save-canvas-compressed
