@@ -43,4 +43,5 @@ https://github.com/jpaulebenz/reactjs-video-thumb-generator/blob/master/src/App.
 Compressing base64 data uri images: 
 ```
 https://stackoverflow.com/questions/22329481/compressing-base64-data-uri-images
+
 https://stackoverflow.com/questions/23969957/how-to-save-canvas-compressed
