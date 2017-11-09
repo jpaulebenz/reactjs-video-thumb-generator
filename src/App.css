@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#video-demo-container {
+  width: 400px;
+  margin: 40px auto;
+}
+
+#main-video {
+  display: none;
+  max-width: 400px;
+}
+
+#thumbnail-container {
+  display: none;
+}
+
+#get-thumbnail {
+  display: none;
+}
+
+#video-canvas {
+  display: block;
+}
+
+#upload-button {
+  width: 150px;
+  display: block;
+  margin: 20px auto;
+}
+
+#file-to-upload {
+  display: none;
+}
